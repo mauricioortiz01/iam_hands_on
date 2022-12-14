@@ -54,10 +54,10 @@ During this Hands On you will lean how to:
     1. Click Next
 
          <img src="img/configure_role.png" width="600">
-    1. Search for `AdminstratorAccess` policy, select it, and click `Next`
+    1. Search for `AdministratorAccess` policy, select it, and click `Next` 
 
         <img src="img/select_adminstrator_access.png" width="600">
-    1. Name the role `AdminstratorAccess` and click `Create Role`
+    1. Name the role `AdministratorAccess` and click `Create Role` (Yes it is misspelled in the picture by accident)
 
         <img src="img/name_role.png" width="600">
     1. Clock on your username on the top right of the screen, and click on switch role.
@@ -65,7 +65,7 @@ During this Hands On you will lean how to:
         <img src="img/switch_role.png" width="600">
     1. Configure role switch
         1. Enter the account number you copied in a previous step
-        1. Enter the name of the role `AdminstratorAccess`
+        1. Enter the name of the role `AdministratorAccess`
         1. Select a color
         1. Click Switch Role
             
